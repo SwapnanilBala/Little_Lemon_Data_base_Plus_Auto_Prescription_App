@@ -1,0 +1,10 @@
+insert into `menus` (`Chefs_Comment`, `country_of_origin`, `cuisine`, `menu_id`, `price`, `type`) values ('Try with red wine', 'Italy', 'Italian', 1, 15.99, 'Main Course');
+insert into `menus` (`Chefs_Comment`, `country_of_origin`, `cuisine`, `menu_id`, `price`, `type`) values ('Spicy and flavorful', 'India', 'Indian', 2, 8.99, 'Appetizer');
+insert into `menus` (`Chefs_Comment`, `country_of_origin`, `cuisine`, `menu_id`, `price`, `type`) values ('Sweet and savory', 'China', 'Chinese', 3, 6.5, 'Dessert');
+insert into `menus` (`Chefs_Comment`, `country_of_origin`, `cuisine`, `menu_id`, `price`, `type`) values ('Best with guacamole', 'Mexico', 'Mexican', 4, 12.75, 'Main Course');
+insert into `menus` (`Chefs_Comment`, `country_of_origin`, `cuisine`, `menu_id`, `price`, `type`) values ('Freshly rolled', 'Japan', 'Japanese', 5, 18.5, 'Sushi');
+insert into `menus` (`Chefs_Comment`, `country_of_origin`, `cuisine`, `menu_id`, `price`, `type`) values ('Perfectly baked', 'France', 'French', 6, 7.25, 'Dessert');
+insert into `menus` (`Chefs_Comment`, `country_of_origin`, `cuisine`, `menu_id`, `price`, `type`) values ('Classic choice', 'USA', 'American', 7, 5, 'Beverage');
+insert into `menus` (`Chefs_Comment`, `country_of_origin`, `cuisine`, `menu_id`, `price`, `type`) values ('Tangy and sweet', 'Thailand', 'Thai', 8, 13.99, 'Main Course');
+insert into `menus` (`Chefs_Comment`, `country_of_origin`, `cuisine`, `menu_id`, `price`, `type`) values ('Bold flavors', 'Korea', 'Korean', 9, 9.5, 'Appetizer');
+insert into `menus` (`Chefs_Comment`, `country_of_origin`, `cuisine`, `menu_id`, `price`, `type`) values ('Healthy and hearty', 'Greece', 'Greek', 10, 14.25, 'Main Course');

@@ -1,0 +1,10 @@
+insert into `stock` (`item_id`, `menu_number`, `quantity_available`, `type`) values (1, 1, 50, 'Pasta');
+insert into `stock` (`item_id`, `menu_number`, `quantity_available`, `type`) values (2, 2, 30, 'Spices');
+insert into `stock` (`item_id`, `menu_number`, `quantity_available`, `type`) values (3, 3, 25, 'Flour');
+insert into `stock` (`item_id`, `menu_number`, `quantity_available`, `type`) values (4, 4, 20, 'Avocado');
+insert into `stock` (`item_id`, `menu_number`, `quantity_available`, `type`) values (5, 5, 40, 'Rice');
+insert into `stock` (`item_id`, `menu_number`, `quantity_available`, `type`) values (6, 6, 15, 'Chocolate');
+insert into `stock` (`item_id`, `menu_number`, `quantity_available`, `type`) values (7, 7, 100, 'Cola');
+insert into `stock` (`item_id`, `menu_number`, `quantity_available`, `type`) values (8, 8, 35, 'Noodles');
+insert into `stock` (`item_id`, `menu_number`, `quantity_available`, `type`) values (9, 9, 20, 'Kimchi');
+insert into `stock` (`item_id`, `menu_number`, `quantity_available`, `type`) values (10, 10, 25, 'Feta Cheese');
