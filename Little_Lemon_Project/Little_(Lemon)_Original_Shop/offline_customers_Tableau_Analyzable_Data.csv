@@ -1,0 +1,6 @@
+offline_customers_id,table_number,customer_name,phone_number,email
+1,1,Raj Patel,555-1234,raj.patel@email.com
+2,2,Li Wei,555-5678,li.wei@email.com
+3,3,Yuki Tanaka,555-8765,yuki.tanaka@email.com
+4,4,Anjali Sharma,555-4321,anjali.sharma@email.com
+5,5,Hiroshi Suzuki,555-6789,hiroshi.suzuki@email.com

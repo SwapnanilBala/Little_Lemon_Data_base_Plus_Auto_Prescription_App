@@ -1,0 +1,11 @@
+customer_id,booking_no,customer_name,phone_number,email
+1,1,John Doe,1234567890,john.doe@example.com
+2,2,Sarah Smith,2345678901,sarah.smith@example.com
+3,3,Paul Adams,3456789012,paul.adams@example.com
+4,4,Lisa Green,4567890123,lisa.green@example.com
+5,5,Ryan Lee,5678901234,ryan.lee@example.com
+6,6,Gill Thompson,6789012345,gill.thompson@example.com
+7,7,Eve Harris,7890123456,eve.harris@example.com
+8,8,Alice Brown,8901234567,alice.brown@example.com
+9,9,Michael Scott,9012345678,michael.scott@example.com
+10,10,David Clark,0123456789,david.clark@example.com

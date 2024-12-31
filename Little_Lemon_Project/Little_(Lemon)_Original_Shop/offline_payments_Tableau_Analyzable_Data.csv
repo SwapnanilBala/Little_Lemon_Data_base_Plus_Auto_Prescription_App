@@ -1,0 +1,6 @@
+offline_payments_id,offline_customers_id,total_bill,payment_type,remarks
+1,1,74.82,Cash,Smooth
+2,2,127.89,Cash,Not smooth
+3,3,8.75,Card,Excelent
+4,4,77.36,Card,Excelent
+5,5,,Upi,Horrible

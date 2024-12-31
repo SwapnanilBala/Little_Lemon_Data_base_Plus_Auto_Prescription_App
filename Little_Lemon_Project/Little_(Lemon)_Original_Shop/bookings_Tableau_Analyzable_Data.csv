@@ -1,0 +1,11 @@
+booking_id,booking_slot,name,phone_no,email,table_no
+1,2024-12-26 12:00:00,John Doe,1234567890,john.doe@example.com,1
+2,2024-12-26 14:00:00,Sarah Smith,2345678901,sarah.smith@example.com,2
+3,2024-12-26 16:00:00,Paul Adams,3456789012,paul.adams@example.com,3
+4,2024-12-26 18:00:00,Lisa Green,4567890123,lisa.green@example.com,4
+5,2024-12-26 20:00:00,Ryan Lee,5678901234,ryan.lee@example.com,5
+6,2024-12-27 12:00:00,Gill Thompson,6789012345,gill.thompson@example.com,6
+7,2024-12-27 14:00:00,Eve Harris,7890123456,eve.harris@example.com,7
+8,2024-12-27 16:00:00,Alice Brown,8901234567,alice.brown@example.com,8
+9,2024-12-27 18:00:00,Michael Scott,9012345678,michael.scott@example.com,9
+10,2024-12-27 20:00:00,David Clark,0123456789,david.clark@example.com,10

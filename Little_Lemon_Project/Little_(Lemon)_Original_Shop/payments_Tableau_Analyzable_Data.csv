@@ -1,0 +1,14 @@
+payment_id,order_no,table_no,final_bill,payment_type,remarks
+1,1,1,17.5,Cash,Smooth Process
+2,2,2,43,Cash,A bit slower than expected
+3,3,3,38.5,Card,A bit faster than expected
+4,4,4,8.75,Card,Slow
+5,5,4,29.75,Cash,Fast
+6,6,5,29.75,Upi,Decent
+7,7,6,36.27,Upi,Okay
+8,8,6,5.67,Cash,okay
+9,9,7,30.52,Upi,Good
+10,10,8,20.89,Cash,Excelent
+11,11,9,19.34,Card,Great
+12,12,9,25.44,Card,Fast
+13,13,10,15.88,Upi,Bad Customer Service
