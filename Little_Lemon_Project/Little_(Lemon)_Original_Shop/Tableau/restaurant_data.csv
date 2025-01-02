@@ -1,0 +1,132 @@
+Food Name,Food Type,Country of Origin,Price,Rating,Profit
+Clam Chowder,Dessert,Thailand,90.14,6.1,33.82
+Biryani,Main Course,China,74.94,9.1,8.82
+Tandoori Chicken,Chef's Special,Indonesia,85.08,1.8,21.87
+Tacos,Dessert,USA,27.93,5.1,5.15
+Dim Sum,Chef's Special,China,29.87,7.8,6.89
+Paella,People's Favourite,Indonesia,63.24,7.1,24.84
+Gado-Gado,Side Dish,Greece,54.04,5.4,10.81
+Fajitas,Appetizer,Greece,92.96,8.0,9.86
+Ceviche,Chef's Special,Greece,6.11,8.6,1.48
+Tom Yum Soup,Side Dish,Vietnam,82.69,1.7,39.14
+Shawarma,Side Dish,Italy,19.09,3.4,8.09
+Chicken Adobo,People's Favourite,France,1.46,7.8,0.69
+Churros,Drink,GreenLand,62.53,2.9,8.87
+Ratatouille,Appetizer,China,31.8,6.0,4.61
+Pad Thai,Main Course,GreenLand,12.15,6.9,3.7
+Shawarma,Drink,Phillipines,24.58,6.5,8.13
+Wiener Schnitzel,Dessert,Vietnam,68.18,2.8,33.99
+Poutine,Drink,India,46.42,9.4,19.48
+Moussaka,Drink,Japan,55.9,3.0,6.81
+Kimchi,Drink,Mexico,43.29,8.9,17.95
+Moussaka,Drink,Italy,61.75,6.8,24.0
+Fajitas,Chef's Special,China,63.5,3.8,13.47
+Ratatouille,Drink,Phillipines,46.3,8.7,8.23
+Jollof Rice,People's Favourite,Greece,11.87,7.9,4.88
+Pierogi,Drink,Indonesia,80.37,3.7,20.05
+Croissant,Chef's Special,China,77.19,9.3,20.56
+Fondue,Drink,Thailand,96.2,1.8,23.34
+Fondue,Chef's Special,Greece,93.01,4.8,24.35
+Ratatouille,Drink,USA,45.21,8.3,6.99
+Gado-Gado,Drink,Phillipines,24.04,7.2,8.47
+Pizza,Main Course,Canada,53.58,6.2,8.21
+Jollof Rice,Main Course,Greece,99.34,2.9,40.81
+Kimchi,Side Dish,France,76.01,5.2,29.3
+Poutine,Appetizer,Japan,3.65,6.8,1.49
+Ceviche,Side Dish,Phillipines,36.98,3.4,8.65
+Jollof Rice,Appetizer,USA,64.05,9.4,19.31
+Falafel,Appetizer,India,74.26,8.7,23.49
+Wiener Schnitzel,Drink,Canada,71.99,1.5,30.42
+Dim Sum,Main Course,Vietnam,11.15,8.3,1.24
+Goulash,Side Dish,Mexico,19.75,8.3,4.44
+Kebabs,Appetizer,China,4.96,6.6,1.59
+Falafel,Dessert,USA,88.54,1.4,39.25
+Wiener Schnitzel,Side Dish,Indonesia,84.74,6.0,10.51
+Pizza,Dessert,Thailand,78.78,3.4,9.48
+Tacos,Drink,Thailand,59.31,8.8,22.03
+Tandoori Chicken,Side Dish,Vietnam,96.12,9.3,15.1
+Falafel,Drink,Phillipines,22.98,9.1,5.54
+Chicken Adobo,Main Course,GreenLand,50.35,5.7,20.02
+Vindaloo,Main Course,GreenLand,29.89,1.3,9.3
+Biryani,Drink,Japan,94.97,2.1,18.9
+Poutine,Chef's Special,Vietnam,89.06,7.4,33.32
+Bibimbap,Main Course,China,29.97,5.8,8.53
+Falafel,Appetizer,Thailand,45.05,3.5,13.46
+Laksa,Main Course,Canada,24.88,5.2,4.86
+Shawarma,Appetizer,India,20.32,3.6,8.26
+Churros,People's Favourite,Mexico,49.84,5.3,7.22
+Baklava,People's Favourite,France,74.42,5.5,36.33
+Kebabs,Main Course,France,84.94,5.1,14.26
+Fondue,People's Favourite,Japan,80.94,6.3,30.83
+Wiener Schnitzel,Drink,China,86.63,4.5,13.78
+Beef Stroganoff,Chef's Special,GreenLand,69.95,4.2,26.93
+Arepas,Side Dish,Phillipines,53.81,1.3,22.01
+Mofongo,Drink,India,13.81,2.3,5.78
+Biryani,Chef's Special,China,5.75,5.0,2.45
+Sushi,Side Dish,China,34.94,3.3,7.87
+Vindaloo,People's Favourite,France,2.67,2.7,0.9
+Goulash,Side Dish,USA,10.25,4.1,1.25
+Churros,Chef's Special,Phillipines,27.73,5.2,12.66
+Pierogi,Side Dish,Thailand,29.34,7.1,14.3
+Samosa,Side Dish,Greece,26.49,10.0,12.68
+Tandoori Chicken,Appetizer,Japan,98.89,2.6,18.82
+Fondue,Dessert,France,59.25,3.7,14.62
+Baklava,Drink,Italy,82.34,4.9,13.92
+Moussaka,Main Course,USA,84.56,1.1,19.53
+Tom Yum Soup,Side Dish,GreenLand,49.81,6.5,13.65
+Samosa,Main Course,Indonesia,27.65,3.3,10.35
+Fondue,Chef's Special,Phillipines,38.55,9.5,9.54
+Ratatouille,Chef's Special,France,51.42,3.1,22.89
+Kebabs,Side Dish,Canada,16.09,8.9,6.85
+Samosa,Side Dish,Mexico,25.42,6.7,3.95
+Tacos,Side Dish,Canada,1.69,2.7,0.35
+Sushi,People's Favourite,Canada,5.87,7.9,1.37
+Bruschetta,Drink,Mexico,98.91,2.1,47.16
+Pad Thai,Chef's Special,Indonesia,96.87,2.8,23.52
+Fajitas,Chef's Special,France,63.04,4.5,24.29
+Ramen,People's Favourite,Greece,55.98,5.2,21.45
+Baklava,Drink,Japan,76.66,6.2,36.43
+Churros,People's Favourite,Vietnam,38.31,10.0,7.12
+Tamales,Appetizer,GreenLand,92.63,8.4,17.84
+Chicken Adobo,Dessert,Japan,41.68,2.4,16.19
+Goulash,Drink,India,81.13,9.9,9.78
+Ratatouille,Side Dish,Indonesia,78.48,3.2,37.38
+Poutine,Chef's Special,USA,62.65,3.9,30.23
+Falafel,Dessert,Mexico,25.71,3.2,11.4
+Poutine,Chef's Special,Italy,65.49,2.1,20.79
+Baklava,Appetizer,France,46.71,5.4,17.31
+Clam Chowder,Chef's Special,Phillipines,80.53,2.5,8.54
+Bibimbap,Side Dish,Italy,1.98,9.9,0.58
+Bruschetta,Dessert,Phillipines,79.09,5.3,30.74
+Mofongo,Appetizer,GreenLand,90.09,5.9,13.09
+Sushi,Main Course,Phillipines,70.79,6.7,28.45
+Sushi,Chef's Special,France,71.77,8.4,24.57
+Paella,Main Course,Vietnam,34.85,4.6,3.85
+Pad Thai,Main Course,Canada,48.66,1.8,6.75
+Bibimbap,Chef's Special,Canada,27.87,1.8,10.33
+Biryani,People's Favourite,India,67.3,1.8,16.23
+Tacos,Main Course,France,99.03,6.2,34.67
+Wiener Schnitzel,Drink,Indonesia,83.85,8.1,20.33
+Sushi,Main Course,Phillipines,22.75,2.1,4.8
+Fajitas,Main Course,India,75.83,6.6,34.64
+Baklava,Dessert,Thailand,58.97,8.3,21.2
+Ratatouille,Chef's Special,Phillipines,2.39,9.6,0.41
+Paella,Dessert,Canada,6.37,8.3,2.76
+Mofongo,People's Favourite,Greece,66.19,9.5,11.74
+Ratatouille,Main Course,Thailand,20.41,1.4,7.19
+Dim Sum,Dessert,USA,95.22,1.5,29.57
+Pizza,Dessert,France,50.52,3.1,23.53
+Poutine,Main Course,Phillipines,97.38,3.0,15.51
+Moussaka,Main Course,Thailand,44.6,5.3,8.49
+Tom Yum Soup,Appetizer,Phillipines,53.67,6.8,19.16
+Fondue,Drink,India,81.31,5.9,35.22
+Beef Stroganoff,Appetizer,India,7.3,5.7,1.41
+Ramen,Chef's Special,Mexico,21.75,7.6,4.63
+Jollof Rice,Chef's Special,Vietnam,53.49,1.3,17.77
+Bannock,Dessert,China,18.95,8.6,4.94
+Ceviche,Chef's Special,USA,62.26,5.4,14.18
+Poutine,Side Dish,Indonesia,79.36,6.8,18.08
+Ceviche,Chef's Special,USA,1.23,8.7,0.29
+Kebabs,Dessert,GreenLand,22.74,3.2,10.03
+Shawarma,Main Course,Italy,94.77,2.1,45.59
+Bruschetta,Dessert,GreenLand,24.28,9.1,4.14
