@@ -45,7 +45,7 @@ def save_to_word(data):
         
         # Save updates
         wb.save(r"C:\Users\GOGOL\Documents\My Projects\Auto_Prescription_App\Medical_Records.xlsx")
-        doc.save(r"C:\Users\GOGOL\Downloads\Printable_Updated_Prescription.docx")
+        doc.save(r"C:\Users\GOGOL\Documents\My Projects\Auto_Prescription_App\Printable_Updated_Prescription.docx")
         
         Form_Status.delete(0, tk.END)
         Form_Status.insert(0, "Successful Submission of Details")
@@ -53,6 +53,7 @@ def save_to_word(data):
 
     except Exception as e:
         print(f"Error: {e}")
+        Form_Status.delete(0)
         Form_Status.insert(0,"Our System ran into some problems")
 
 
@@ -61,6 +62,7 @@ def clear():
     entry_age.delete(0, tk.END)
     entry_address.delete(0, tk.END)
     combo_sex.delete(0, tk.END)
+    Form_Status.delete(0)
     Form_Status.insert(0, "The patient details have been cleared")
 
 
@@ -83,7 +85,7 @@ def submit_form():
 def print_file():
     # Check if the Word document exists
     Form_Status.delete(0)
-    word_file = r"C:\Users\GOGOL\Downloads\Printable_Updated_Prescription.docx"
+    word_file = r"C:\Users\GOGOL\Documents\My Projects\Auto_Prescription_App\Printable_Updated_Prescription.docx"
     if os.path.exists(word_file):
         try:
             # Launch Word and convert DOCX to PDF
@@ -91,7 +93,7 @@ def print_file():
             doc = word.Documents.Open(word_file)
 
             # Define the path for the PDF output
-            pdf_file = r"C:\Users\GOGOL\Downloads\Printable_Updated_Prescription.pdf"
+            pdf_file = r"C:\Users\GOGOL\Documents\My Projects\Auto_Prescription_App\Printable_Updated_Prescription.pdf"
 
             # Save the Word document as a PDF
             doc.SaveAs(pdf_file, FileFormat=17)  # FileFormat=17 is for PDF
@@ -105,6 +107,7 @@ def print_file():
             Form_Status.insert(0, "The document has been converted to PDF and sent to the printer.")
         except Exception as e:
             print(f"Error: {e}")
+            Form_Status.delete(0)
             Form_Status.insert(0, "Error: Could not convert and print the document.")
     else:
         Form_Status.delete(0)
