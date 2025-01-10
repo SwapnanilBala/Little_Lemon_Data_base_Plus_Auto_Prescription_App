@@ -21,7 +21,7 @@ def save_to_word(data):
             if "Patients Name:" in paragraph.text:
                 paragraph.text = f"Patients Name: {data['name']}"
             elif "Age:" in paragraph.text:
-                paragraph.text = f"Age : {data['age']}"
+                paragraph.text = f"Age: {data['age']}"
             elif "Sex:" in paragraph.text:
                 paragraph.text = f"Sex: {data['sex']}"
             elif "Address:" in paragraph.text:
