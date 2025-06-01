@@ -990,34 +990,37 @@ from functools import reduce
 
 # The Code Above is Wrong -- > -- > ^
 
-def longest_palindrome(word):
-    l = len(word)
-    if l == 0:
-        return ""
-    start, maxlen = 0,1
+# def longest_palindrome(word):
+#     l = len(word)
+#     if l == 0:
+#         return ""
+#     start, maxlen = 0,1
+#
+#     # This will run len(word) times
+#     for i in range(l):
+#         # THIS RUNS TWO TIMES
+#         # for both odd and even length
+#         # palindromes. j = 0 means odd
+#         # and j = 1 means even length
+#         for j in range(2):
+#             low,high = i, i+j
+#             # Expand substring while it is a palindrome
+#             # and in bounds
+#             while low >= 0 and high < l and word[low] == word[high]:
+#                 currlen = high - low + 1
+#                 if currlen > maxlen:
+#                     start = low
+#                     maxlen = currlen
+#                 low -= 1
+#                 high += 1
+#     return word[start:start + maxlen]
+#
+# if __name__ == "__main__":
+#     s = "forgeeksskeegfor"
+#     print(longest_palindrome(s))
 
-    # This will run len(word) times
-    for i in range(l):
-        # THIS RUNS TWO TIMES
-        # for both odd and even length
-        # palindromes. j = 0 means odd
-        # and j = 1 means even length
-        for j in range(2):
-            low,high = i, i+j
-            # Expand substring while it is a palindrome
-            # and in bounds
-            while low >= 0 and high < l and word[low] == word[high]:
-                currlen = high - low + 1
-                if currlen > maxlen:
-                    start = low
-                    maxlen = currlen
-                low -= 1
-                high += 1
-    return word[start:start + maxlen]
-
-if __name__ == "__main__":
-    s = "forgeeksskeegfor"
-    print(longest_palindrome(s))
+word = 'gogol'
+print(word[::-1])
 
 
 
