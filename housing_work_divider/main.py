@@ -1,5 +1,5 @@
 import random
-
+from operator import index
 
 from fontTools.ttLib.ttVisitor import visit
 
@@ -1019,8 +1019,80 @@ from functools import reduce
 #     s = "forgeeksskeegfor"
 #     print(longest_palindrome(s))
 
-word = 'gogol'
-print(word[::-1])
+# word = 'gogol'
+# print(word[::-1])
+
+# INsertioN Sort Algorithm O(n) time complexity
+
+# def searchInsert(nums:list,target:int):
+#     for index,value in enumerate(nums):
+#         if value < target:
+#             continue
+#         if value >= target:
+#              return index
+#
+#     return len(nums)
+#
+# print(searchInsert([1,3,5,6],2))
+#
+# # Insertion Sort Algorithm O(logN)
+#
+# def mid_finder(list_a):
+#     return index(list_a[(len(list)//2)])
+#
+# def searchins(nums,target):
+
+# Search Insert Algorithm
+
+# def searchInsert(nums: list[int], target: int) -> int:
+#     left, right = 0, len(nums) - 1
+#     if target > nums[right]:
+#         return right+1
+#
+#     if target == nums[right]:
+#         return right
+#
+#     while left < right and nums[left] < target:
+#         if nums[left] == target:
+#             return left
+#
+#         left += 1
+#
+#
+#     return left
+#
+#
+# if __name__ == "__main__":
+#     print(searchInsert([1,3,5,6],7))
+
+# word = "  I am Confused  "
+# new_word = word.lstrip(' ')
+# print(new_word)
+
+# def lengthOfLastWord(s: str) -> int:
+#     v = s.strip()  # Removes both leading and trailing spaces
+#     l = []
+#     right = len(v) - 1
+#
+#     for x in range(right, -1, -1):  # Include index 0
+#         if v[x] == " ":
+#             return len(l)
+#         else:
+#             l.append(v[x])  # Append the character, not the index
+#
+#     return len(l)
+#
+# if __name__ == "__main__":
+#     print(lengthOfLastWord("  fly me    to the moon   "))  # Output: 4
+
+def addDigits( num: int) -> int:
+    num_str = str(num)
+   length = len(str(num))
+   while length >= 2:
+       total = sum(int(items) for items in num_str ))
+
+
+
 
 
 
