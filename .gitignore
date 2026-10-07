@@ -1,0 +1,6 @@
+# Patient records and generated prescriptions stay local
+Auto_Prescription_App/Medical_Records.xlsx
+Auto_Prescription_App/Printable_Updated_Prescription.*
+
+.ipynb_checkpoints/
+__pycache__/
